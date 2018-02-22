@@ -1,0 +1,28 @@
+.FullPost{
+    width:75%;
+    height:20%;
+    box-shadow: 5px 5px #dddbdbe0;
+    color :black;
+    border: 2px solid #dddbdbe0;
+    text-align: center;
+    margin:15px;
+    margin-left:10%;
+}
+
+.FullPost button {
+  color : "red";
+  border:none;
+  background-color: white;
+  text-align:center;
+  font-size:12px;
+  margin: 4px 2px;
+  transition-duration : 0.4s ease-out;
+  cursor:pointer;
+ 
+  }
+
+  .FullPost button :hover {
+    background-color: gainsboro;
+    border: 2px solid #e7e7e7;
+  }
+   

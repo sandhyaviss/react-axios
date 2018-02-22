@@ -1,0 +1,9 @@
+
+.BlogPost{
+    width:75%;
+    height:20%;
+    display :flex;
+    justify-content:center;
+    margin-left:10%;
+    flex-wrap: wrap;
+}

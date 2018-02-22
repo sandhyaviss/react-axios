@@ -1,0 +1,41 @@
+.NewPost{
+    width:75%;
+    height:50%;
+   border: 2px solid #dddbdbe0 ;
+   display:flex;;
+    color: black;
+    text-align: center;
+    box-shadow: 5px 5px #dddbdbe0;
+     display:flex;
+     flex-flow: column;
+     justify-content: center;
+    align-items: center;
+    margin:15px;
+    margin-left:10%;
+    }
+
+    .NewPost div{
+        border : 1px solid black;
+     }
+    .divTitle{
+        width:75%;
+       min-height:15px;
+         }
+     .divContent{
+        width:75%;
+        min-height:45px;
+    }   
+    .divAuthor{
+        width:75%;
+        min-height:15px;
+    }   
+
+    .NewPost button {
+        color:rgba(255, 166, 0, 0.664);
+        background-color: white;
+        border: 1px solid rgba(255, 166, 0, 0.664);
+        padding:10px;
+        margin-top:10px;
+        margin-bottom: 10px;
+
+    }
